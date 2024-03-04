@@ -54,3 +54,23 @@ main{
 .navbarlist{
     background-color: rgba(79, 79, 179, 0.932);
 }
+/*/NAVBAR*/
+
+/*MAINSECTION*/
+/*HEADER*/
+/*SEARCHBAR*/
+.searchbar{
+    width: 100%;
+    /*debug*/
+    height: 100px;
+    background-color: rgb(0, 255, 34);
+    
+}
+/*/SEARCHBAR*/
+/*PERSONAL-MENUS*/
+.persmenu{
+    width: 100%;
+    /*debug*/
+    height: 50px;
+    background-color: green;
+}
