@@ -49,10 +49,27 @@ main{
     /*debug*/
     height: 200px;   
     width: 100%;
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
+    
+}
+.logo
+img{
+    width: 100%;
 }
 .navbarlist{
     background-color: rgba(79, 79, 179, 0.932);
+    text-align: center;
+}
+.navbarlist ul li{
+    padding: 10px 0;
+    font-size: 20px;
+    margin: 20px 30px;
+    border: 1px solid transparent;
+}
+.navbarlist ul li:hover{
+    border: 1px solid black;
+    border-radius: 25px;
+    
 }
 /*/NAVBAR*/
 
